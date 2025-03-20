@@ -1,6 +1,6 @@
 # The Site Configuration
 
-# Import the theme 하이!
+# Import the theme
 theme: jekyll-theme-chirpy
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
@@ -38,8 +38,7 @@ social:
   email: dkswlgo6615@naver.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
- # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/JihaeAn # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
